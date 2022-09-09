@@ -1,0 +1,7 @@
+06May2022
+
+Template A is directly copy-pasted from the 
+original unfinished Pronoun Wardrobe project.
+Still in old format; needs to be switched to new format.
+
+Example: [KName.01SubA] --> [K.01Sub][K.is]
